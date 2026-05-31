@@ -1,7 +1,7 @@
 # Regional Claims Performance & Capital Risk Analysis
 
 ## Executive Summary
-Customer Satisfaction (CSAT) scores were experiencing a measurable decline across regional networks, coinciding with millions of dollars in capital tied up in unresolved claim reserves. This project identifies the root cause of the operational friction and provides a data-driven recommendation to release trapped capital and improve the customer experience.
+Using SQL, Excel, and Power BI, I cleaned the dataset, validated key trends, and built an interactive dashboard highlighting claim volume, hold time, reserves, and workload distribution. Customer Satisfaction (CSAT) scores were experiencing a measurable decline across regional networks, coinciding with millions of dollars in capital tied up in unresolved claim reserves. This project identifies the root cause of the operational friction and provides a data-driven recommendation to release trapped capital and improve the customer experience.
 
 ## The Objective
 To diagnose the operational bottlenecks causing increased average hold times, low CSAT, and inflated reserve balances across the national claims network, with a specific focus on the Texas and California regions.
