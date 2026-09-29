@@ -5,7 +5,7 @@
 ![CSAT Dashboard Overview](01_csat_dashboard_overview.png)
 
 ## Executive Summary
-Customer Satisfaction (CSAT) scores were experiencing a measurable decline across regional networks, coinciding with millions of dollars in capital tied up in unresolved claim reserves. This project identifies the operational friction contributing to lower service performance and provides data-driven recommendations to release trapped capital and improve the customer experience.
+Customer Satisfaction (CSAT) scores were experiencing a measurable decline across regional networks, coinciding with millions of dollars in capital tied up in unresolved claim reserves. This project identifies operational friction contributing to lower service performance and provides data-driven recommendations to release trapped capital and improve the customer experience.
 
 Using SQL, Excel, and Power BI, I cleaned the dataset, validated key trends, and built an interactive dashboard highlighting claim volume, hold time, reserves, and workload distribution.
 
