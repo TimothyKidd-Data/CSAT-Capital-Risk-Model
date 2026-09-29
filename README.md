@@ -1,5 +1,9 @@
 # Regional Claims Exploratory Analysis for Chubb Insurance
 
+## Dashboard Preview
+
+![CSAT Dashboard Overview](01_csat_dashboard_overview.png)
+
 ## Executive Summary
 Using SQL, Excel, and Power BI, I cleaned the dataset, validated key trends, and built an interactive dashboard highlighting claim volume, hold time, reserves, and workload distribution. Customer Satisfaction (CSAT) scores were experiencing a measurable decline across regional networks, coinciding with millions of dollars in capital tied up in unresolved claim reserves. This project identifies the root cause of the operational friction and provides a data-driven recommendation to release trapped capital and improve the customer experience.
 
